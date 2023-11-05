@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background: #fff;
+    margin: 50px 300px;
+    text-align: center;
+}
+
+#container {
+    background: #ddd;
+    border-radius: 10px;
+}
+
+h1 {
+    padding: 30px 0 0 0;
+    font-size: 80px;
+}
+
+p {
+    text-align: justify;
+    font-size: 30px;
+    margin: 30px;
+}
+
+img {
+    padding: 20px;
+    width: 1000px;
+}
